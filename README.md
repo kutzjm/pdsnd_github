@@ -5,10 +5,11 @@ Start Date: 8/20/2020
 Project on Data from Bikeshare Users
 
 ### Description
-Describe what your project is about and what it does
+Analysis of bikeshare trips based on city and user logged information.
 
 ### Files used
-Include the files used
+Files Used:
+chicago.csv, washington.csv, new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credits Include: Udacity
