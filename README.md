@@ -5,7 +5,7 @@ Include the date you created this project and README file.
 Bikeshare Users Across Cities
 
 ### Description
-Describe what your project is about and what it does
+Bikers submit information about themselves in an app to use the public bike. The app tracks their trips.
 
 ### Files used
 Include the files used
