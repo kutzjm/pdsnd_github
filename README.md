@@ -5,7 +5,7 @@ Start Date: 8/20/2020
 Project on Data from Bikeshare Users
 
 ### Description
-Analysis of bikeshare trips based on city and user logged information.
+Analysis of bikeshare trips based on city and user logged information. The user can filter the data by city, month, or day.
 
 ### Files used
 Files Used:
