@@ -11,5 +11,5 @@ Analysis of bikeshare trips based on city and bike user logged information. The 
 Files Used:
 chicago.csv, washington.csv, new_york_city.csv
 
-### edits
+### Credits
 Credits Include: Udacity
